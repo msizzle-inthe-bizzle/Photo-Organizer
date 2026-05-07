@@ -21,7 +21,7 @@ This project organizes photos automatically based on metadata such as:
 - Processing: metadata extraction (Python script)
 - Output: organized folder structure
 
-##Future Work
+## Future Work
 - Be able to delete duplicate photos for clearing space - pixel comparison?
 - Be able to prompt for which type of photos to be deleted. Ex: "Delete photos with a notebook in them"
 
